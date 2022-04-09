@@ -10,10 +10,9 @@
 3. Present the results and demonstrations <br>
 4. Create an image processing tool which has these functions:<br>
 &nbsp&nbsp&nbsp＊Showing the histogram of an image, convert to grayscale<br>
-&nbsp&nbsp&nbsp＊Enhance image quality using: histogram equalization, Gramma correction.<br>
-Filter the image with blurring, smoothing, sharpening.<br>
+&nbsp&nbsp&nbsp＊Enhance image quality using: histogram equalization, Gramma correction.Filter the image with blurring, smoothing, sharpening.<br>
 &nbsp&nbsp&nbsp＊Saving an image to another formats (JPEG, PNG, BMP)<br>
 &nbsp&nbsp&nbsp＊Rotate, scaling, flip, warp, crop an image<br>
 &nbsp&nbsp&nbsp＊Convert video, webcam to grayscale, flip the video/webcam (90, 180, 270 degrees).<br>
-Using YOLO/SSD/Faster-RCNN/… to: Counting cat in a video
+5. Using YOLO/SSD/Faster-RCNN/… to: Counting cat in a video
 </a>
