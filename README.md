@@ -9,12 +9,12 @@
 2. Create a report summarizing functions in the tool and how did you create thems (at least 5 pages in length). In the report, the roles of each member in team must be mentioned.<br>
 3. Present the results and demonstrations <br>
 4. Create an image processing tool which has these functions:<br>
-&nbspShowing the histogram of an image, convert to grayscale<br>
-    Enhance image quality using: histogram equalization, Gramma correction.<br>
+&nbsp&nbsp&nbspShowing the histogram of an image, convert to grayscale<br>
+&nbsp&nbsp&nbspEnhance image quality using: histogram equalization, Gramma correction.<br>
 Filter the image with blurring, smoothing, sharpening.<br>
-    Saving an image to another formats (JPEG, PNG, BMP)<br>
-    Rotate, scaling, flip, warp, crop an image<br>
-    Convert video, webcam to grayscale, flip the video/webcam (90, 180, 270 degrees).<br>
-    Using YOLO/SSD/Faster-RCNN/… to:<br>
+&nbsp&nbsp&nbspSaving an image to another formats (JPEG, PNG, BMP)<br>
+&nbsp&nbsp&nbspRotate, scaling, flip, warp, crop an image<br>
+&nbsp&nbsp&nbspConvert video, webcam to grayscale, flip the video/webcam (90, 180, 270 degrees).<br>
+&nbsp&nbsp&nbspUsing YOLO/SSD/Faster-RCNN/… to:<br>
  Counting cat in a video
 </a>
