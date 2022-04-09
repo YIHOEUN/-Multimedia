@@ -1,7 +1,10 @@
-<h1>멀티미디어 처리 기술</h1>
-<h3>Team 가보자고(Let's go!)</h3>
-<h4>Members</h4>
-<a> 박희선, 손묘경, 이호은 </a>
+<h1>멀티미디어 처리 기술 (Multimedia Processing Technique)</h1>
+<h2>Team 가보자고(Let's go!)</h2>
+<h3>Members</h3>
+<a> 
+  201811143 박희선(HeeSun Park) <br>
+  201811288 손묘경(MyoGyeong Son)<br>
+  201812132 이호은(HoEun Yi)<br> </a>
 
 <h3>Requirements</h3>
 <a>
@@ -16,3 +19,4 @@
 &nbsp&nbsp&nbsp＊Convert video, webcam to grayscale, flip the video/webcam (90, 180, 270 degrees).<br>
 5. Using YOLO/SSD/Faster-RCNN/… to: Counting cat in a video
 </a>
+
