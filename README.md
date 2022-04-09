@@ -15,6 +15,5 @@ Filter the image with blurring, smoothing, sharpening.<br>
 &nbsp&nbsp&nbsp＊Saving an image to another formats (JPEG, PNG, BMP)<br>
 &nbsp&nbsp&nbsp＊Rotate, scaling, flip, warp, crop an image<br>
 &nbsp&nbsp&nbsp＊Convert video, webcam to grayscale, flip the video/webcam (90, 180, 270 degrees).<br>
-&nbsp&nbsp&nbsp＊Using YOLO/SSD/Faster-RCNN/… to:<br>
- Counting cat in a video
+Using YOLO/SSD/Faster-RCNN/… to: Counting cat in a video
 </a>
