@@ -5,5 +5,7 @@
 
 <h3>Requirements</h3>
 <a>
-1. 
+1. Create a tool with graphical user interface (GUI) running on desktop or web environment.
+2. Create a report summarizing functions in the tool and how did you create thems (at least 5 pages in length). In the report, the roles of each member in team must be mentioned.
+3. Present the results and demonstrations
 </a>
