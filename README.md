@@ -20,3 +20,15 @@
 5. Using YOLO/SSD/Faster-RCNN/… to: Counting cat in a video
 </a>
 
+
+<h3>Role</h3>
+HeeSun Park<br>
+&nbsp&nbsp&nbsp＊Convert video, webcam to grayscale, flip the video/webcam (90, 180, 270 degrees).<br>
+&nbsp&nbsp&nbsp＊Presentation<br>
+Son MyoGyeong<br>
+&nbsp&nbsp&nbsp＊Saving an image to another formats (JPEG, PNG, BMP)<br>
+&nbsp&nbsp&nbsp＊Rotate, scaling, flip, warp, crop an image<br>
+Yi HoEun<br>
+&nbsp&nbsp&nbsp＊Rotate, scaling, flip, warp, crop an image<br>
+&nbsp&nbsp&nbsp＊Convert video, webcam to grayscale, flip the video/webcam (90, 180, 270 degrees).<br>
+All Members : Using YOLOv5 to Count cat in a video
