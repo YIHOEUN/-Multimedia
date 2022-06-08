@@ -6,7 +6,9 @@
   https://github.com/summeree22/multiTeamProject<br>
   201811288 손묘경(MyoGyeong Son)<br>
   https://github.com/MyoGyeong/Multimedia<br>
-  201812132 이호은(HoEun Yi)<br> </a>
+  201812132 이호은(HoEun Yi)<br> 
+
+</a>
 
 <h3>Requirements</h3>
 <a>
